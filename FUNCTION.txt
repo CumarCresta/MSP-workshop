@@ -1,0 +1,8 @@
+//default arguments
+def change_list(name,age=15):
+	print(name)
+	print(age)
+
+name("kumar")
+age()
+	

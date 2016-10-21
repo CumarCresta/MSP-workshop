@@ -1,0 +1,2 @@
+first set up script path in environment variables
+pip install module_name
